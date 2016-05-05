@@ -1,0 +1,6 @@
+dialogs filter=lfs diff=lfs merge=lfs -text
+lang filter=lfs diff=lfs merge=lfs -text
+themes filter=lfs diff=lfs merge=lfs -text
+third-party filter=lfs diff=lfs merge=lfs -text
+ueditor.all.min.js filter=lfs diff=lfs merge=lfs -text
+ueditor.config.js filter=lfs diff=lfs merge=lfs -text
